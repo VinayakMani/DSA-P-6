@@ -1,2 +1,2 @@
 # DSA-P-6
-CALL BY VALUE
+swapping of two numbers using call by value and call by reference straties
